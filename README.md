@@ -5,3 +5,4 @@
 적용 방법은 파일 URL을 집어넣거나 하면되는데 차후에 서술하겠습니다.
 우선은 https://steamcommunity.com/sharedfiles/filedetails/?id=1110775580 링크의 
 importing & exporting 탭을 확인해주세요
+.json파일 raw의 링크를 URL에 붙여넣기하면 됩니다.
