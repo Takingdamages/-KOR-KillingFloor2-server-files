@@ -4,4 +4,4 @@
 업로드 요청해주시면 제가 업로드 해놓도록 하겠습니다.
 적용 방법은 파일 URL을 집어넣거나 하면되는데 차후에 서술하겠습니다.
 우선은 https://steamcommunity.com/sharedfiles/filedetails/?id=1110775580 링크의 
-importing & exporting 탭을 
+importing & exporting 탭을 확인해주세요
